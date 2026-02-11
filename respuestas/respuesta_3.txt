@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+SERIES TEMPORALES | Diseñado para la ingesta masiva de datos con sello de tiempo y consultas eficientes por rangos cronológicos.
