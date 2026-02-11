@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+DOCUMENTAL | Permite almacenar objetos JSON con esquemas flexibles y dinámicos que evolucionan sin necesidad de migraciones complejas.
